@@ -1,7 +1,7 @@
 Bitcoin Price Analysis
 ==============================
 
-Bitcoin Price Analysis
+Bitcoin Price Analysis using CookieCutter default template
 
 Project Organization
 ------------
